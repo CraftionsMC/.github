@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+We are Craftions. A Team of developers. We develop many products and maintain over 50 Open Source Projects.
 
-**Here are some ideas to get you started:**
+### Useful resources
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+- [Our Website](https://craftions.net)
+- [Our Website Source](https://github.com/CraftionsMC/craftions.net)
+
+You can join our discord at https://discord.io/Craftions
